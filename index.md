@@ -1,6 +1,6 @@
 # Jonathan's First CS193 Homework
 
-##Things I Like About CS 193
+## Things I Like About CS 193
 - Taught by undergrads
 - Teaches important skills for CS that may not otherwise be covered
 - Not as large of a time commitment as other classes
